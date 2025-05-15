@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("Selamat datang di Website Informatika")
 
-st.image("
+st.image("IMG-20250507-WA0009.jpg")
 
